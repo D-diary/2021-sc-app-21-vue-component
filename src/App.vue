@@ -1,6 +1,9 @@
 <template>
-  <div>
-    <h1>hello world</h1>
+  <div class="alert alert-primary">
+    <h1 class="text-center">
+      <i class="fa fa-bars"></i>
+      Hello world
+    </h1>
   </div>
 </template>
 
@@ -10,6 +13,6 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 
 </style>
